@@ -1,0 +1,7 @@
+{
+while(a3+15>0xa)
+if(x2==07)
+while(y<z)
+y=x*y/z;
+c=b*c+d;
+}
